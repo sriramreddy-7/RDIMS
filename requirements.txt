@@ -1,0 +1,13 @@
+# Backend dependencies
+Django==3.2.6
+djangorestframework==3.12.4
+django-cors-headers==3.7.0
+gunicorn==20.1.0
+psycopg2-binary==2.9.1
+
+# Frontend dependencies
+nodeenv==1.6.0
+npm==7.20.3
+
+# Other dependencies
+requests==2.26.0
