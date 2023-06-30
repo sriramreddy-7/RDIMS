@@ -1,5 +1,8 @@
 # Backend dependencies
-Django==3.2.6
+﻿Django==4.1
+django-timezone-field==5.0
+python-dateutil==2.8.2
+
 djangorestframework==3.12.4
 django-cors-headers==3.7.0
 gunicorn==20.1.0
